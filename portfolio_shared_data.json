@@ -1,0 +1,93 @@
+{
+    "basic_info": {
+      "name": "Eric Davis",
+      "titles": [ "Smart Contract Engineer.", "Adtech Guru / Dev Team Lead.", "❤️ All Things Web3.", "DeFi and NFT Specialist.", "❤️ ⛳" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/0xMoJo7",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/0xMojo7",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "envelope",
+          "url": "mailto:ericmdavis4@gmail.com",
+          "class": "fa fa-envelope"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Solidity",
+          "class": "devicon-solidity-plain",
+          "level": "95"
+        },
+        {
+          "name": "Polygon",
+          "class": "devicon-polygon-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Portgres",
+          "class": "devicon-postgresql-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "70"
+        },
+        {
+          "name": "Ruby",
+          "class": "devicon-ruby-plain",
+          "level": "70"
+        },
+        {
+          "name": "Rust",
+          "class": "devicon-rust-plain",
+          "level": "70"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "70"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "70"
+        },
+        {
+          "name": "SSH",
+          "class": "devicon-ssh-plain",
+          "level": "70"
+        },
+        {
+          "name": "Vim",
+          "class": "devicon-vim-plain",
+          "level": "70"
+        }
+      ]
+    }
+  }
