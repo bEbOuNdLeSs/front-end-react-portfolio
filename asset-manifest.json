@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.b7ca8487.chunk.css",
-    "main.js": "./static/js/main.7f094ebf.chunk.js",
-    "main.js.map": "./static/js/main.7f094ebf.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.590b0372.js",
-    "runtime-main.js.map": "./static/js/runtime-main.590b0372.js.map",
-    "static/css/2.3eb2a443.chunk.css": "./static/css/2.3eb2a443.chunk.css",
-    "static/js/2.88944b4b.chunk.js": "./static/js/2.88944b4b.chunk.js",
-    "static/js/2.88944b4b.chunk.js.map": "./static/js/2.88944b4b.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.7365416192670dd008e526fa2c180522.js": "./precache-manifest.7365416192670dd008e526fa2c180522.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.3eb2a443.chunk.css.map": "./static/css/2.3eb2a443.chunk.css.map",
-    "static/css/main.b7ca8487.chunk.css.map": "./static/css/main.b7ca8487.chunk.css.map",
-    "static/js/2.88944b4b.chunk.js.LICENSE.txt": "./static/js/2.88944b4b.chunk.js.LICENSE.txt"
+    "main.css": "/front-end-react-portfolio/static/css/main.15094760.chunk.css",
+    "main.js": "/front-end-react-portfolio/static/js/main.a13493c2.chunk.js",
+    "main.js.map": "/front-end-react-portfolio/static/js/main.a13493c2.chunk.js.map",
+    "runtime-main.js": "/front-end-react-portfolio/static/js/runtime-main.2d446025.js",
+    "runtime-main.js.map": "/front-end-react-portfolio/static/js/runtime-main.2d446025.js.map",
+    "static/css/2.3eb2a443.chunk.css": "/front-end-react-portfolio/static/css/2.3eb2a443.chunk.css",
+    "static/js/2.feb86ee6.chunk.js": "/front-end-react-portfolio/static/js/2.feb86ee6.chunk.js",
+    "static/js/2.feb86ee6.chunk.js.map": "/front-end-react-portfolio/static/js/2.feb86ee6.chunk.js.map",
+    "index.html": "/front-end-react-portfolio/index.html",
+    "precache-manifest.ef68e239c6ab7bd0c63711f3b4744d07.js": "/front-end-react-portfolio/precache-manifest.ef68e239c6ab7bd0c63711f3b4744d07.js",
+    "service-worker.js": "/front-end-react-portfolio/service-worker.js",
+    "static/css/2.3eb2a443.chunk.css.map": "/front-end-react-portfolio/static/css/2.3eb2a443.chunk.css.map",
+    "static/css/main.15094760.chunk.css.map": "/front-end-react-portfolio/static/css/main.15094760.chunk.css.map",
+    "static/js/2.feb86ee6.chunk.js.LICENSE.txt": "/front-end-react-portfolio/static/js/2.feb86ee6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.590b0372.js",
+    "static/js/runtime-main.2d446025.js",
     "static/css/2.3eb2a443.chunk.css",
-    "static/js/2.88944b4b.chunk.js",
-    "static/css/main.b7ca8487.chunk.css",
-    "static/js/main.7f094ebf.chunk.js"
+    "static/js/2.feb86ee6.chunk.js",
+    "static/css/main.15094760.chunk.css",
+    "static/js/main.a13493c2.chunk.js"
   ]
 }
